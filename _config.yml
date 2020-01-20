@@ -1,11 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Ya Liu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+MS Marketing Analytics Candidate, Class of 2020
   <br><br>
-  Second description 
+Simon Business School, University of Rochester 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/yaliu1/">View My LinkedIn Profile</a>   
+
+google_analytics: G-D9682RLY1T # your Google Analytics tracking ID here
