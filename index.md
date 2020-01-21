@@ -13,7 +13,9 @@ This decision support system is designed to help bank managers predict risk perf
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)(/sample_page)
+[Project 3 Title](http://example.com/)
+
+#/sample_page
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
