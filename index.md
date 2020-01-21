@@ -5,7 +5,8 @@
 ### Python project
 
 [Credit Card Application System](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/yaliu0703/DecisionSupportSystem/blob/master/img/Decision%20Support%20System.jpg?raw=true"/>
+This decision support system is designed to help bank managers predict risk performance of a credit card aplicant. In this project, I trained the predictive model with dataset first and then visualized the system with Streamlit. Bank managers not only can get decision support but also explaination from this system.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
