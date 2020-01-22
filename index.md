@@ -31,7 +31,7 @@ In this project, I trained a model using the Titanic dataset from Kaggle for pre
 
 ---
 
-## [OnlineFoodTrendAnalysis](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
+## [Online Food Trend Analysis](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
 
 <img src="https://github.com/yaliu0703/OnlineFoodTrendAnalysis/blob/master/img/cauliflower%20viz%20chart.jpg?raw=true"/>
 <img src="https://github.com/yaliu0703/OnlineFoodTrendAnalysis/blob/master/img/result+wordcloud_2014.jpg?raw=true"/>
