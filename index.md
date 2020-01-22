@@ -2,29 +2,6 @@
 
 ---
 
-# Python project
-
-## [Decision Support System](https://yaliu0703.github.io/DecisionSupportSystem/)
-
-<img src="https://github.com/yaliu0703/DecisionSupportSystem/blob/master/img/Decision%20Support%20System.jpg?raw=true"/>
-
-This decision support system is designed to help bank managers predict risk performance of a credit card aplicant. In this project, I trained the predictive model with dataset first and then visualized the system with Streamlit. Bank managers not only can get decision support but also explaination from this system.
-
-
-[Learn more](https://yaliu0703.github.io/DecisionSupportSystem/)
-
-
----
-
-
-## [Sentiment Analysis on Twitter Airline Dataset](/SentimentAnalysisOnUSTwitterAirlineDataset)
-
-In this project, I trained a sentiment analysis model with the US Twitter Airline Dataset which contains 1700 Tweets on complaint about Airlines and 1700 Tweets not complaining about Airlines. We can tell the sentiment of tweets with model we developed. The precision of our model on validation set is 0.58.
-
-[Learn more](/SentimentAnalysisOnUSTwitterAirlineDataset)
-
----
-
 # R project
 
 ## [Titanic: Machine Learning from Disaster](https://yaliu0703.github.io/Titanic-Machine-Learning-from-Disaster/)
@@ -51,6 +28,31 @@ The project is based on 4 million Facebook posts from 2011 to 2015. Here I will 
 [Learn more](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
 
 ---
+
+
+# Python project
+
+## [Decision Support System](https://yaliu0703.github.io/DecisionSupportSystem/)
+
+<img src="https://github.com/yaliu0703/DecisionSupportSystem/blob/master/img/Decision%20Support%20System.jpg?raw=true"/>
+
+This decision support system is designed to help bank managers predict risk performance of a credit card aplicant. In this project, I trained the predictive model with dataset first and then visualized the system with Streamlit. Bank managers not only can get decision support but also explaination from this system.
+
+
+[Learn more](https://yaliu0703.github.io/DecisionSupportSystem/)
+
+
+---
+
+
+## [Sentiment Analysis on Twitter Airline Dataset](/SentimentAnalysisOnUSTwitterAirlineDataset)
+
+In this project, I trained a sentiment analysis model with the US Twitter Airline Dataset which contains 1700 Tweets on complaint about Airlines and 1700 Tweets not complaining about Airlines. We can tell the sentiment of tweets with model we developed. The precision of our model on validation set is 0.58.
+
+[Learn more](/SentimentAnalysisOnUSTwitterAirlineDataset)
+
+---
+
 
 # HTML project
 
