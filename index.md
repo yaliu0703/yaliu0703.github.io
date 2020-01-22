@@ -10,7 +10,9 @@
 
 This decision support system is designed to help bank managers predict risk performance of a credit card aplicant. In this project, I trained the predictive model with dataset first and then visualized the system with Streamlit. Bank managers not only can get decision support but also explaination from this system.
 
+
 [Learn more](https://yaliu0703.github.io/DecisionSupportSystem/)
+
 ---
 
 
