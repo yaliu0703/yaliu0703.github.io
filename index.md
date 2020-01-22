@@ -31,6 +31,17 @@ In this project, I trained a sentiment analysis model with the US Twitter Airlin
 
 ### R project
 
+[Titanic: Machine Learning from Disaster](https://yaliu0703.github.io/Titanic-Machine-Learning-from-Disaster/)
+
+<img src="https://github.com/yaliu0703/Titanic-Machine-Learning-from-Disaster/raw/master/output_11_0.png"/>
+<img src="https://github.com/yaliu0703/Titanic-Machine-Learning-from-Disaster/raw/master/output_69_2.png"/>
+
+
+In this project, I trained a model using the Titanic dataset from Kaggle for predicting whether a passenger may survive the sinking of Titanic. The project is carried out in three parts: data exploration, feature engineering and model training. Performance of final model is 81%.
+
+
+---
+
 [OnlineFoodTrendAnalysis](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
 
 <img src="https://github.com/yaliu0703/OnlineFoodTrendAnalysis/blob/master/img/cauliflower%20viz%20chart.jpg?raw=true"/>
@@ -40,7 +51,7 @@ Early detection of emerging food trends can translate into great business opport
 
 The project is based on 4 million Facebook posts from 2011 to 2015. Here I will validate my method with the case of Cauliflower Rice whose demand has been growing steadily from 2011 to 2015.
 
-- [Project 2 Title](http://example.com/)
+[Titanic: Machine Learning from Disaster](https://yaliu0703.github.io/Titanic-Machine-Learning-from-Disaster/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
@@ -51,5 +62,3 @@ The project is based on 4 million Facebook posts from 2011 to 2015. Here I will 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
