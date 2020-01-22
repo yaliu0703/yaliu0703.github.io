@@ -4,7 +4,7 @@
 
 # Python project
 
-[Credit Card Application System](https://yaliu0703.github.io/DecisionSupportSystem/)
+## [Credit Card Application System](https://yaliu0703.github.io/DecisionSupportSystem/)
 
 <img src="https://github.com/yaliu0703/DecisionSupportSystem/blob/master/img/Decision%20Support%20System.jpg?raw=true"/>
 
@@ -13,7 +13,7 @@ This decision support system is designed to help bank managers predict risk perf
 ---
 
 
-[Sentiment Analysis on US Twitter Airline Dataset](/SentimentAnalysisOnUSTwitterAirlineDataset)
+## [Sentiment Analysis on US Twitter Airline Dataset](/SentimentAnalysisOnUSTwitterAirlineDataset)
 
 In this project, I trained a sentiment analysis model with the US Twitter Airline Dataset which contains 1700 Tweets on complaint about Airlines and 1700 Tweets not complaining about Airlines. We can tell the sentiment of tweets with model we developed. The precision of our model on validation set is 0.58.
 
@@ -21,7 +21,7 @@ In this project, I trained a sentiment analysis model with the US Twitter Airlin
 
 # R project
 
-[Titanic: Machine Learning from Disaster](https://yaliu0703.github.io/Titanic-Machine-Learning-from-Disaster/)
+## [Titanic: Machine Learning from Disaster](https://yaliu0703.github.io/Titanic-Machine-Learning-from-Disaster/)
 
 <img src="https://github.com/yaliu0703/Titanic-Machine-Learning-from-Disaster/raw/master/output_11_0.png"/>
 <img src="https://github.com/yaliu0703/Titanic-Machine-Learning-from-Disaster/raw/master/output_23_0.png"/>
@@ -31,7 +31,7 @@ In this project, I trained a model using the Titanic dataset from Kaggle for pre
 
 ---
 
-[OnlineFoodTrendAnalysis](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
+## [OnlineFoodTrendAnalysis](https://yaliu0703.github.io/OnlineFoodTrendAnalysis/)
 
 <img src="https://github.com/yaliu0703/OnlineFoodTrendAnalysis/blob/master/img/cauliflower%20viz%20chart.jpg?raw=true"/>
 <img src="https://github.com/yaliu0703/OnlineFoodTrendAnalysis/blob/master/img/result+wordcloud_2014.jpg?raw=true"/>
