@@ -1,9 +1,13 @@
 title: Ya Liu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  MS Marketing Analytics Candidate
+  Analytical thinker with the ability to mind hidden gems located within large rich data sets. Capable of turning dry analysis into an exciting story that drives business critical decisions.
   <br><br>
   Simon Business School, University of Rochester 
   <br><br>
   <a href="https://www.linkedin.com/in/yaliu1/">View My LinkedIn Profile</a>   
+  
+  
+
+theme: jekyll-theme-minimal
 google_analytics: G-D9682RLY1T # your Google Analytics tracking ID here
