@@ -4,7 +4,7 @@
 
 # Python project
 
-## [Credit Card Application System](https://yaliu0703.github.io/DecisionSupportSystem/)
+## [Credit Card Application Decision Support System](https://yaliu0703.github.io/DecisionSupportSystem/)
 
 <img src="https://github.com/yaliu0703/DecisionSupportSystem/blob/master/img/Decision%20Support%20System.jpg?raw=true"/>
 
