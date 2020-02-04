@@ -29,6 +29,16 @@ The project is based on 4 million Facebook posts from 2011 to 2015. Here I will 
 
 ---
 
+## [Analytics Design to Recommend Flavors to Launch](https://yaliu0703.github.io/Analytics-Design-to-Recommend-Flavors-to-Launch/)
+
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/raw/master/3.png?raw=true"/>
+<img src="https://github.com/yaliu0703/Analytics-Design-to-Recommend-Flavors-to-Launch/raw/master/4.png?raw=true"/>
+
+In this project, I am conducting analytics to provide recommendations to the decision of which flavors to launch next. Assume for this analysis that the private label recently launched six flavors--Blueberry, Honey, Peach, Plain, Strawberry, and Vanilla. I focused on providing analytics to help determine what the next flavors to launch should be. The main methology I use is TURF analysis.
+
+[Learn more](https://yaliu0703.github.io/Analytics-Design-to-Recommend-Flavors-to-Launch/)
+
+---
 
 # Python project
 
